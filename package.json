@@ -1,7 +1,7 @@
 {
   "name": "comp3104",
   "version": "1.0.0",
-  "description": "- Pritesh  - Patel",
+  "description": "- Anand - Biehl",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\""
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/pritamworld/F2023_COMP3104.git"
   },
   "keywords": ["devops", "nodejs", "express", "web"],
-  "author": "Pritesh Patel",
+  "author": "Anand Biehl",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pritamworld/F2023_COMP3104/issues"
